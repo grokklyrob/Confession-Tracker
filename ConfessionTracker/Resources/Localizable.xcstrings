@@ -1,299 +1,533 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "tab.confessions": {
-      "comment": "Tab bar",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confessions"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "%lld days" : {
+
+    },
+    "%lld days after previous" : {
+
+    },
+    "%lld days ago" : {
+
+    },
+    "%lld months" : {
+
+    },
+    "%lld months after previous" : {
+
+    },
+    "%lld months ago" : {
+
+    },
+    "%lld of 2,000 characters" : {
+
+    },
+    "%lld weeks" : {
+
+    },
+    "%lld weeks after previous" : {
+
+    },
+    "%lld weeks ago" : {
+
+    },
+    "%lld years" : {
+
+    },
+    "%lld years after previous" : {
+
+    },
+    "%lld years ago" : {
+
+    },
+    "a11y.add.button" : {
+      "comment" : "Accessibility label for the add button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Confession"
           }
         }
       }
     },
-    "tab.prayer": {
-      "comment": "Tab bar",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Prayer"
+    "a11y.historyRow" : {
+      "comment" : "History row label, oldest entry",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
           }
         }
       }
     },
-    "a11y.tab.prayer": {
-      "comment": "Prayer tab accessibility label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Act of Contrition"
+    "a11y.historyRow.penance" : {
+      "comment" : "Appended to the row label after a comma",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penance: %@"
           }
         }
       }
     },
-    "tab.guide": {
-      "comment": "Tab bar",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guide"
+    "a11y.historyRow.withInterval" : {
+      "comment" : "History row label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, %2$@"
           }
         }
       }
     },
-    "confessions.title": {
-      "comment": "Nav title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confessions"
+    "a11y.settings.button" : {
+      "comment" : "Accessibility label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
           }
         }
       }
     },
-    "prayer.title": {
-      "comment": "Nav title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Act of Contrition"
+    "a11y.summary" : {
+      "comment" : "Summary row accessibility label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last confession, %1$@, %2$@"
           }
         }
       }
     },
-    "guide.title": {
-      "comment": "Nav title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guide"
+    "a11y.tab.prayer" : {
+      "comment" : "Prayer tab accessibility label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Act of Contrition"
           }
         }
       }
     },
-    "settings.title": {
-      "comment": "Nav title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Settings"
+    "acknowledgements.body" : {
+      "comment" : "Acknowledgements screen body. Markdown",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The traditional Act of Contrition is a traditional prayer in the public domain.\n\nThe Guide quotes the customary words of the penitent and the short dialogue \"Give thanks to the Lord, for he is good. His mercy endures for ever.\" Other words of the priest are described rather than quoted.\n\nThe description of the rite follows the ordinary form of individual confession in the Roman Rite. Practices vary; follow your priest's guidance."
           }
         }
       }
     },
-    "entry.add.title": {
-      "comment": "Sheet title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "New Confession"
+    "action.logNow" : {
+      "comment" : "Primary button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Confession Now"
           }
         }
       }
     },
-    "entry.edit.title": {
-      "comment": "Sheet title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Edit Confession"
+    "common.cancel" : {
+      "comment" : "Buttons",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
           }
         }
       }
     },
-    "common.cancel": {
-      "comment": "Buttons",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancel"
+    "common.delete" : {
+      "comment" : "Swipe action",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
           }
         }
       }
     },
-    "common.save": {
-      "comment": "Add sheet",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Save"
+    "common.done" : {
+      "comment" : "Edit sheet, Settings",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
           }
         }
       }
     },
-    "common.done": {
-      "comment": "Edit sheet, Settings",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Done"
+    "common.edit" : {
+      "comment" : "Detail toolbar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
           }
         }
       }
     },
-    "common.ok": {
-      "comment": "Alerts",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+    "common.ok" : {
+      "comment" : "Alerts",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         }
       }
     },
-    "common.delete": {
-      "comment": "Swipe action",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete"
+    "common.save" : {
+      "comment" : "Add sheet",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
           }
         }
       }
     },
-    "common.edit": {
-      "comment": "Detail toolbar",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Edit"
+    "confessions.title" : {
+      "comment" : "Nav title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confessions"
           }
         }
       }
     },
-    "summary.lastConfession": {
-      "comment": "Summary header label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Last confession"
+    "delete.confirm.action" : {
+      "comment" : "Destructive button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
           }
         }
       }
     },
-    "summary.empty.title": {
-      "comment": "Empty state",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No confessions logged"
+    "delete.confirm.title" : {
+      "comment" : "Confirmation dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete this confession?"
           }
         }
       }
     },
-    "summary.empty.body": {
-      "comment": "Empty state",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Use Log Confession Now to record a confession."
+    "detail.delete" : {
+      "comment" : "Destructive row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Confession"
           }
         }
       }
     },
-    "a11y.summary": {
-      "comment": "Summary row accessibility label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Last confession, %1$@, %2$@"
+    "detail.edit" : {
+      "comment" : "Toolbar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
           }
         }
       }
     },
-    "action.logNow": {
-      "comment": "Primary button",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Log Confession Now"
+    "detail.field.date" : {
+      "comment" : "Detail row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date"
           }
         }
       }
     },
-    "interval.today": {
-      "comment": "Relative interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Today"
+    "detail.field.time" : {
+      "comment" : "Detail row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time"
           }
         }
       }
     },
-    "interval.yesterday": {
-      "comment": "Relative interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Yesterday"
+    "detail.penance.empty" : {
+      "comment" : "Detail row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No penance recorded"
           }
         }
       }
     },
-    "interval.daysAgo": {
-      "comment": "Relative interval. n is 2–13 (1 renders as Yesterday)",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld day ago"
+    "entry.add.title" : {
+      "comment" : "Sheet title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Confession"
+          }
+        }
+      }
+    },
+    "entry.discard.action" : {
+      "comment" : "Destructive button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discard Changes"
+          }
+        }
+      }
+    },
+    "entry.discard.title" : {
+      "comment" : "Confirmation dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discard changes?"
+          }
+        }
+      }
+    },
+    "entry.edit.title" : {
+      "comment" : "Sheet title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Confession"
+          }
+        }
+      }
+    },
+    "entry.error.futureDate.message" : {
+      "comment" : "Alert message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The date can't be in the future."
+          }
+        }
+      }
+    },
+    "entry.error.futureDate.title" : {
+      "comment" : "Alert title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can't Save"
+          }
+        }
+      }
+    },
+    "entry.field.date" : {
+      "comment" : "DatePicker label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date"
+          }
+        }
+      }
+    },
+    "entry.field.penance.placeholder" : {
+      "comment" : "TextField placeholder",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penance received (optional)"
+          }
+        }
+      }
+    },
+    "entry.penance.counter" : {
+      "comment" : "Penance footer, shown within 200 characters of the limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld of 2,000 characters"
+          }
+        }
+      }
+    },
+    "entry.sameDay.notice" : {
+      "comment" : "Add sheet, Date section footer",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An entry already exists for this day."
+          }
+        }
+      }
+    },
+    "entry.section.dateTime" : {
+      "comment" : "Section header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date and Time"
+          }
+        }
+      }
+    },
+    "entry.section.penance" : {
+      "comment" : "Section header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penance"
+          }
+        }
+      }
+    },
+    "entry.section.penance.footer" : {
+      "comment" : "Section footer",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only the date, time, and penance are stored. Nothing else about the confession is recorded."
+          }
+        }
+      }
+    },
+    "error.save.title" : {
+      "comment" : "Alert",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't Save"
+          }
+        }
+      }
+    },
+    "error.store.body" : {
+      "comment" : "Confessions tab error view",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confession Tracker couldn't open its database. Restart the app. If this keeps happening, reinstalling will remove all local data."
+          }
+        }
+      }
+    },
+    "error.store.title" : {
+      "comment" : "Confessions tab error view",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't Open Your Data"
+          }
+        }
+      }
+    },
+    "guide.interval.days" : {
+      "comment" : "Spoken interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld days ago"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days"
                 }
               }
             }
@@ -301,23 +535,35 @@
         }
       }
     },
-    "interval.weeksAgo": {
-      "comment": "Relative interval. n is 2–8",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld week ago"
+    "guide.interval.lessThanDay" : {
+      "comment" : "Spoken interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "less than a day"
+          }
+        }
+      }
+    },
+    "guide.interval.months" : {
+      "comment" : "Spoken interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld month"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld weeks ago"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld months"
                 }
               }
             }
@@ -325,23 +571,47 @@
         }
       }
     },
-    "interval.monthsAgo": {
-      "comment": "Relative interval. n is 2–23",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld month ago"
+    "guide.interval.oneDay" : {
+      "comment" : "Spoken interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "one day"
+          }
+        }
+      }
+    },
+    "guide.interval.placeholder" : {
+      "comment" : "Bracketed placeholder when no entries",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[time]"
+          }
+        }
+      }
+    },
+    "guide.interval.weeks" : {
+      "comment" : "Spoken interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld week"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld months ago"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld weeks"
                 }
               }
             }
@@ -349,23 +619,23 @@
         }
       }
     },
-    "interval.yearsAgo": {
-      "comment": "Relative interval. n is 2 or more",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld year ago"
+    "guide.interval.years" : {
+      "comment" : "Spoken interval. n is 2 or more",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld year"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld years ago"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld years"
                 }
               }
             }
@@ -373,35 +643,107 @@
         }
       }
     },
-    "interval.sameDayAsPrevious": {
-      "comment": "History row line 2",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Same day as previous"
+    "guide.line.blessMe" : {
+      "comment" : "Guide line. interval is the spoken phrase",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bless me, Father, for I have sinned. It has been %@ since my last confession."
           }
         }
       }
     },
-    "interval.daysAfterPrevious": {
-      "comment": "History row. Plural one is 1 day after previous. n is 1–13",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld day after previous"
+    "guide.logNow" : {
+      "comment" : "Button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log This Confession"
+          }
+        }
+      }
+    },
+    "guide.speaker.priest" : {
+      "comment" : "Speaker label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priest"
+          }
+        }
+      }
+    },
+    "guide.speaker.together" : {
+      "comment" : "Speaker label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Together"
+          }
+        }
+      }
+    },
+    "guide.speaker.you" : {
+      "comment" : "Speaker label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You"
+          }
+        }
+      }
+    },
+    "guide.step.header" : {
+      "comment" : "Section header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step %1$lld: %2$@"
+          }
+        }
+      }
+    },
+    "guide.title" : {
+      "comment" : "Nav title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guide"
+          }
+        }
+      }
+    },
+    "interval.daysAfterPrevious" : {
+      "comment" : "History row. Plural one is 1 day after previous. n is 1–13",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day after previous"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld days after previous"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days after previous"
                 }
               }
             }
@@ -409,23 +751,23 @@
         }
       }
     },
-    "interval.weeksAfterPrevious": {
-      "comment": "History row. n is 2–8",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld week after previous"
+    "interval.daysAgo" : {
+      "comment" : "Relative interval. n is 2–13 (1 renders as Yesterday)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day ago"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld weeks after previous"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days ago"
                 }
               }
             }
@@ -433,23 +775,23 @@
         }
       }
     },
-    "interval.monthsAfterPrevious": {
-      "comment": "History row. n is 2–23",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld month after previous"
+    "interval.monthsAfterPrevious" : {
+      "comment" : "History row. n is 2–23",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld month after previous"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld months after previous"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld months after previous"
                 }
               }
             }
@@ -457,23 +799,23 @@
         }
       }
     },
-    "interval.yearsAfterPrevious": {
-      "comment": "History row. n is 2 or more",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld year after previous"
+    "interval.monthsAgo" : {
+      "comment" : "Relative interval. n is 2–23",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld month ago"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld years after previous"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld months ago"
                 }
               }
             }
@@ -481,443 +823,47 @@
         }
       }
     },
-    "delete.confirm.title": {
-      "comment": "Confirmation dialog",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete this confession?"
+    "interval.sameDayAsPrevious" : {
+      "comment" : "History row line 2",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Same day as previous"
           }
         }
       }
     },
-    "delete.confirm.action": {
-      "comment": "Destructive button",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete"
+    "interval.today" : {
+      "comment" : "Relative interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
           }
         }
       }
     },
-    "a11y.settings.button": {
-      "comment": "Accessibility label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Settings"
-          }
-        }
-      }
-    },
-    "a11y.add.button": {
-      "comment": "Accessibility label for the add button",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "New Confession"
-          }
-        }
-      }
-    },
-    "a11y.historyRow": {
-      "comment": "History row label, oldest entry",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@"
-          }
-        }
-      }
-    },
-    "a11y.historyRow.withInterval": {
-      "comment": "History row label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@, %2$@"
-          }
-        }
-      }
-    },
-    "a11y.historyRow.penance": {
-      "comment": "Appended to the row label after a comma",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Penance: %@"
-          }
-        }
-      }
-    },
-    "entry.section.dateTime": {
-      "comment": "Section header",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Date and Time"
-          }
-        }
-      }
-    },
-    "entry.field.date": {
-      "comment": "DatePicker label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Date"
-          }
-        }
-      }
-    },
-    "entry.sameDay.notice": {
-      "comment": "Add sheet, Date section footer",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "An entry already exists for this day."
-          }
-        }
-      }
-    },
-    "entry.section.penance": {
-      "comment": "Section header",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Penance"
-          }
-        }
-      }
-    },
-    "entry.field.penance.placeholder": {
-      "comment": "TextField placeholder",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Penance received (optional)"
-          }
-        }
-      }
-    },
-    "entry.section.penance.footer": {
-      "comment": "Section footer",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Only the date, time, and penance are stored. Nothing else about the confession is recorded."
-          }
-        }
-      }
-    },
-    "entry.penance.counter": {
-      "comment": "Penance footer, shown within 200 characters of the limit",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld of 2,000 characters"
-          }
-        }
-      }
-    },
-    "entry.error.futureDate.title": {
-      "comment": "Alert title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Can't Save"
-          }
-        }
-      }
-    },
-    "entry.error.futureDate.message": {
-      "comment": "Alert message",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The date can't be in the future."
-          }
-        }
-      }
-    },
-    "entry.discard.title": {
-      "comment": "Confirmation dialog",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Discard changes?"
-          }
-        }
-      }
-    },
-    "entry.discard.action": {
-      "comment": "Destructive button",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Discard Changes"
-          }
-        }
-      }
-    },
-    "detail.field.date": {
-      "comment": "Detail row",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Date"
-          }
-        }
-      }
-    },
-    "detail.field.time": {
-      "comment": "Detail row",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Time"
-          }
-        }
-      }
-    },
-    "detail.penance.empty": {
-      "comment": "Detail row",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No penance recorded"
-          }
-        }
-      }
-    },
-    "detail.delete": {
-      "comment": "Destructive row",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete Confession"
-          }
-        }
-      }
-    },
-    "detail.edit": {
-      "comment": "Toolbar",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Edit"
-          }
-        }
-      }
-    },
-    "textSize.menu": {
-      "comment": "Menu label and accessibility label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Text Size"
-          }
-        }
-      }
-    },
-    "textSize.default": {
-      "comment": "Menu option",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Default"
-          }
-        }
-      }
-    },
-    "textSize.large": {
-      "comment": "Menu option",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Large"
-          }
-        }
-      }
-    },
-    "textSize.extraLarge": {
-      "comment": "Menu option",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Extra Large"
-          }
-        }
-      }
-    },
-    "guide.step.header": {
-      "comment": "Section header",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Step %1$lld: %2$@"
-          }
-        }
-      }
-    },
-    "guide.speaker.you": {
-      "comment": "Speaker label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "You"
-          }
-        }
-      }
-    },
-    "guide.speaker.priest": {
-      "comment": "Speaker label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Priest"
-          }
-        }
-      }
-    },
-    "guide.speaker.together": {
-      "comment": "Speaker label",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Together"
-          }
-        }
-      }
-    },
-    "guide.logNow": {
-      "comment": "Button",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Log This Confession"
-          }
-        }
-      }
-    },
-    "guide.interval.placeholder": {
-      "comment": "Bracketed placeholder when no entries",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[time]"
-          }
-        }
-      }
-    },
-    "guide.interval.lessThanDay": {
-      "comment": "Spoken interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "less than a day"
-          }
-        }
-      }
-    },
-    "guide.interval.oneDay": {
-      "comment": "Spoken interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "one day"
-          }
-        }
-      }
-    },
-    "guide.interval.days": {
-      "comment": "Spoken interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld day"
+    "interval.weeksAfterPrevious" : {
+      "comment" : "History row. n is 2–8",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld week after previous"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld days"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld weeks after previous"
                 }
               }
             }
@@ -925,23 +871,23 @@
         }
       }
     },
-    "guide.interval.weeks": {
-      "comment": "Spoken interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld week"
+    "interval.weeksAgo" : {
+      "comment" : "Relative interval. n is 2–8",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld week ago"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld weeks"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld weeks ago"
                 }
               }
             }
@@ -949,23 +895,23 @@
         }
       }
     },
-    "guide.interval.months": {
-      "comment": "Spoken interval",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld month"
+    "interval.yearsAfterPrevious" : {
+      "comment" : "History row. n is 2 or more",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld year after previous"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld months"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld years after previous"
                 }
               }
             }
@@ -973,23 +919,23 @@
         }
       }
     },
-    "guide.interval.years": {
-      "comment": "Spoken interval. n is 2 or more",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld year"
+    "interval.yearsAgo" : {
+      "comment" : "Relative interval. n is 2 or more",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld year ago"
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%lld years"
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld years ago"
                 }
               }
             }
@@ -997,234 +943,330 @@
         }
       }
     },
-    "guide.line.blessMe": {
-      "comment": "Guide line. interval is the spoken phrase",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bless me, Father, for I have sinned. It has been %@ since my last confession."
+    "interval.yesterday" : {
+      "comment" : "Relative interval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yesterday"
           }
         }
       }
     },
-    "settings.section.data": {
-      "comment": "Section header",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Data"
+    "prayer.title" : {
+      "comment" : "Nav title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Act of Contrition"
           }
         }
       }
     },
-    "settings.deleteAll": {
-      "comment": "Destructive button",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete All Confessions"
+    "privacy.body" : {
+      "comment" : "Privacy screen body. Markdown with bold headings and blank-line paragraphs",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**What Confession Tracker stores**\n\nFor each confession you log, the app stores the date, the time, and the penance you choose to enter. Nothing else about your confession is recorded.\n\n**Where it is stored**\n\nYour entries are stored on this device. The app never sends them anywhere, and they are not synced to your other devices. The developer of this app cannot see your data.\n\nLike other app data, your entries are included in your device backups if you have backups turned on. iCloud Backup is end-to-end encrypted only if you have turned on Advanced Data Protection for your Apple Account. Computer backups are protected only if you encrypt them.\n\n**What is not collected**\n\nThe app has no accounts, no analytics, no advertising, and no third-party code. It does not send any information to the developer or to anyone else.\n\n**Deleting your data**\n\nDeleting an entry removes it from this device. Settings > Delete All Confessions removes every entry. Uninstalling the app removes all of its data from this device. Backups made before you deleted something may still contain it until those backups are replaced or deleted."
           }
         }
       }
     },
-    "settings.deleteAll.confirm1.title": {
-      "comment": "Dialog",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete all confessions?"
+    "settings.acknowledgements" : {
+      "comment" : "Row and pushed screen title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledgements"
           }
         }
       }
     },
-    "settings.deleteAll.confirm1.message": {
-      "comment": "Dialog",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This deletes every entry on this device."
+    "settings.data.footer" : {
+      "comment" : "Footer",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deleting removes all entries. The prayer and the guide are not affected."
           }
         }
       }
     },
-    "settings.deleteAll.confirm1.action": {
-      "comment": "Destructive",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete All"
+    "settings.deleteAll" : {
+      "comment" : "Destructive button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete All Confessions"
           }
         }
       }
     },
-    "settings.deleteAll.confirm2.title": {
-      "comment": "Alert",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Are you sure?"
+    "settings.deleteAll.confirm1.action" : {
+      "comment" : "Destructive",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete All"
           }
         }
       }
     },
-    "settings.deleteAll.confirm2.message": {
-      "comment": "Alert",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This can't be undone."
+    "settings.deleteAll.confirm1.message" : {
+      "comment" : "Dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This deletes every entry on this device."
           }
         }
       }
     },
-    "settings.deleteAll.confirm2.action": {
-      "comment": "Destructive button in the second alert",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete All"
+    "settings.deleteAll.confirm1.title" : {
+      "comment" : "Dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete all confessions?"
           }
         }
       }
     },
-    "settings.data.footer": {
-      "comment": "Footer",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deleting removes all entries. The prayer and the guide are not affected."
+    "settings.deleteAll.confirm2.action" : {
+      "comment" : "Destructive button in the second alert",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete All"
           }
         }
       }
     },
-    "settings.section.about": {
-      "comment": "Section header",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "About"
+    "settings.deleteAll.confirm2.message" : {
+      "comment" : "Alert",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This can't be undone."
           }
         }
       }
     },
-    "settings.version": {
-      "comment": "Row",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Version"
+    "settings.deleteAll.confirm2.title" : {
+      "comment" : "Alert",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure?"
           }
         }
       }
     },
-    "settings.privacy": {
-      "comment": "Row and pushed screen title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Privacy"
+    "settings.privacy" : {
+      "comment" : "Row and pushed screen title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
           }
         }
       }
     },
-    "settings.acknowledgements": {
-      "comment": "Row and pushed screen title",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Acknowledgements"
+    "settings.section.about" : {
+      "comment" : "Section header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
           }
         }
       }
     },
-    "privacy.body": {
-      "comment": "Privacy screen body. Markdown with bold headings and blank-line paragraphs",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "**What Confession Tracker stores**\n\nFor each confession you log, the app stores the date, the time, and the penance you choose to enter. Nothing else about your confession is recorded.\n\n**Where it is stored**\n\nYour entries are stored on this device. The app never sends them anywhere, and they are not synced to your other devices. The developer of this app cannot see your data.\n\nLike other app data, your entries are included in your device backups if you have backups turned on. iCloud Backup is end-to-end encrypted only if you have turned on Advanced Data Protection for your Apple Account. Computer backups are protected only if you encrypt them.\n\n**What is not collected**\n\nThe app has no accounts, no analytics, no advertising, and no third-party code. It does not send any information to the developer or to anyone else.\n\n**Deleting your data**\n\nDeleting an entry removes it from this device. Settings > Delete All Confessions removes every entry. Uninstalling the app removes all of its data from this device. Backups made before you deleted something may still contain it until those backups are replaced or deleted."
+    "settings.section.data" : {
+      "comment" : "Section header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
           }
         }
       }
     },
-    "acknowledgements.body": {
-      "comment": "Acknowledgements screen body. Markdown",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The traditional Act of Contrition is a traditional prayer in the public domain.\n\nThe Guide quotes the customary words of the penitent and the short dialogue \"Give thanks to the Lord, for he is good. His mercy endures for ever.\" Other words of the priest are described rather than quoted.\n\nThe description of the rite follows the ordinary form of individual confession in the Roman Rite. Practices vary; follow your priest's guidance."
+    "settings.title" : {
+      "comment" : "Nav title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
           }
         }
       }
     },
-    "error.store.title": {
-      "comment": "Confessions tab error view",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't Open Your Data"
+    "settings.version" : {
+      "comment" : "Row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
           }
         }
       }
     },
-    "error.store.body": {
-      "comment": "Confessions tab error view",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confession Tracker couldn't open its database. Restart the app. If this keeps happening, reinstalling will remove all local data."
+    "summary.empty.body" : {
+      "comment" : "Empty state",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Log Confession Now to record a confession."
           }
         }
       }
     },
-    "error.save.title": {
-      "comment": "Alert",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't Save"
+    "summary.empty.title" : {
+      "comment" : "Empty state",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No confessions logged"
+          }
+        }
+      }
+    },
+    "summary.lastConfession" : {
+      "comment" : "Summary header label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last confession"
+          }
+        }
+      }
+    },
+    "tab.confessions" : {
+      "comment" : "Tab bar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confessions"
+          }
+        }
+      }
+    },
+    "tab.guide" : {
+      "comment" : "Tab bar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guide"
+          }
+        }
+      }
+    },
+    "tab.prayer" : {
+      "comment" : "Tab bar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prayer"
+          }
+        }
+      }
+    },
+    "textSize.default" : {
+      "comment" : "Menu option",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default"
+          }
+        }
+      }
+    },
+    "textSize.extraLarge" : {
+      "comment" : "Menu option",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extra Large"
+          }
+        }
+      }
+    },
+    "textSize.large" : {
+      "comment" : "Menu option",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Large"
+          }
+        }
+      }
+    },
+    "textSize.menu" : {
+      "comment" : "Menu label and accessibility label",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Size"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }

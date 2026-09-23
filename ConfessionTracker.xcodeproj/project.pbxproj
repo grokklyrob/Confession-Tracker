@@ -3,8 +3,25 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		H10000000000000000000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A10000000000000000000004 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000001;
+			remoteInfo = ConfessionTracker;
+		};
+		H10000000000000000000002 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A10000000000000000000004 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000001;
+			remoteInfo = ConfessionTracker;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		D10000000000000000000001 /* ConfessionTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConfessionTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -13,14 +30,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C10000000000000000000001 /* Exceptions for "ConfessionTracker" folder in "ConfessionTracker" target */ = {
+		C10000000000000000000001 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
 			target = A10000000000000000000001 /* ConfessionTracker */;
 		};
-		C10000000000000000000002 /* Exceptions for "ConfessionTrackerUITests" folder in "ConfessionTrackerUITests" target */ = {
+		C10000000000000000000002 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -30,27 +47,9 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B10000000000000000000001 /* ConfessionTracker */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C10000000000000000000001 /* Exceptions for "ConfessionTracker" folder in "ConfessionTracker" target */,
-			);
-			path = ConfessionTracker;
-			sourceTree = "<group>";
-		};
-		B10000000000000000000002 /* ConfessionTrackerTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ConfessionTrackerTests;
-			sourceTree = "<group>";
-		};
-		B10000000000000000000003 /* ConfessionTrackerUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C10000000000000000000002 /* Exceptions for "ConfessionTrackerUITests" folder in "ConfessionTrackerUITests" target */,
-			);
-			path = ConfessionTrackerUITests;
-			sourceTree = "<group>";
-		};
+		B10000000000000000000001 /* ConfessionTracker */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (C10000000000000000000001 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = ConfessionTracker; sourceTree = "<group>"; };
+		B10000000000000000000002 /* ConfessionTrackerTests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = ConfessionTrackerTests; sourceTree = "<group>"; };
+		B10000000000000000000003 /* ConfessionTrackerUITests */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (C10000000000000000000002 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = ConfessionTrackerUITests; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -266,23 +265,6 @@
 			targetProxy = H10000000000000000000002 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXContainerItemProxy section */
-		H10000000000000000000001 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = A10000000000000000000004 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A10000000000000000000001;
-			remoteInfo = ConfessionTracker;
-		};
-		H10000000000000000000002 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = A10000000000000000000004 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A10000000000000000000001;
-			remoteInfo = ConfessionTracker;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin XCBuildConfiguration section */
 		I10000000000000000000001 /* Debug */ = {
