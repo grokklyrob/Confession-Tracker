@@ -1,0 +1,189 @@
+{
+  "contentVersion": 1,
+  "actOfContrition": {
+    "title": "Act of Contrition",
+    "body": [
+      "O my God, I am heartily sorry for having offended Thee, and I detest all my sins because of Thy just punishments, but most of all because they offend Thee, my God, Who art all-good and deserving of all my love. I firmly resolve, with the help of Thy grace, to sin no more and to avoid the near occasions of sin. Amen."
+    ],
+    "source": "Traditional; public domain."
+  },
+  "guideIntro": "This guide describes what usually happens in individual confession and what to say. Details vary from parish to parish and priest to priest. If anything differs, follow the priest.",
+  "guideSteps": [
+    {
+      "id": "before-you-go-in",
+      "title": "Before You Go In",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "Take a few minutes beforehand to recall your sins since your last confession. This app does not include an examination of conscience; many parishes provide one, and printed and online versions are widely available."
+        },
+        {
+          "speaker": "note",
+          "text": "Know roughly how long it has been since your last confession. The Confessions tab shows this."
+        },
+        {
+          "speaker": "note",
+          "text": "You may confess anonymously behind a screen or face to face. Either is acceptable. Choose whichever you prefer when you enter."
+        }
+      ]
+    },
+    {
+      "id": "entering",
+      "title": "Entering",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "Enter when the light or door indicates the confessional is free. Kneel or sit. The priest may greet you first."
+        }
+      ]
+    },
+    {
+      "id": "sign-of-the-cross",
+      "title": "Sign of the Cross",
+      "lines": [
+        {
+          "speaker": "both",
+          "text": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen."
+        },
+        {
+          "speaker": "note",
+          "text": "The priest may briefly invite you to trust in God's mercy, and may read a short passage from Scripture. When he finishes his invitation, answer:"
+        },
+        {
+          "speaker": "penitent",
+          "text": "Amen."
+        }
+      ]
+    },
+    {
+      "id": "beginning",
+      "title": "Beginning",
+      "lines": [
+        {
+          "speaker": "penitent",
+          "text": "{blessMe}"
+        },
+        {
+          "speaker": "note",
+          "text": "If this is your first confession, say: This is my first confession."
+        },
+        {
+          "speaker": "note",
+          "text": "You may briefly mention your state in life if it helps the priest, for example: I am married, or, I am a student. This is optional."
+        }
+      ]
+    },
+    {
+      "id": "confessing",
+      "title": "Confessing Your Sins",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "State your sins plainly. For serious (mortal) sins, give the kind of sin and, as best you can, how many times. Less serious (venial) sins may also be confessed. There is no need for long explanations unless the priest asks."
+        },
+        {
+          "speaker": "note",
+          "text": "If you forget a sin, it is still forgiven when you receive absolution in good faith. Mention it at your next confession if you remember it."
+        },
+        {
+          "speaker": "penitent",
+          "text": "For these and all my sins, I am truly sorry."
+        }
+      ]
+    },
+    {
+      "id": "counsel-and-penance",
+      "title": "Counsel and Penance",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "The priest may offer brief advice and then assigns a penance, usually a prayer or a small act."
+        },
+        {
+          "speaker": "note",
+          "text": "If you did not understand or hear the penance, ask the priest to repeat it."
+        },
+        {
+          "speaker": "penitent",
+          "text": "Thank you, Father."
+        }
+      ]
+    },
+    {
+      "id": "act-of-contrition",
+      "title": "Act of Contrition",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "The priest invites you to express your sorrow, often by asking you to make your Act of Contrition."
+        },
+        {
+          "speaker": "penitent",
+          "text": "{actOfContrition}"
+        },
+        {
+          "speaker": "note",
+          "text": "You may read the prayer from this screen; the Prayer tab shows the same text. If you don't know it, you can also ask the priest to help you."
+        }
+      ]
+    },
+    {
+      "id": "absolution",
+      "title": "Absolution",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "The priest extends his hand and prays the prayer of absolution. It ends with the words: in the name of the Father, and of the Son, and of the Holy Spirit. Answer:"
+        },
+        {
+          "speaker": "penitent",
+          "text": "Amen."
+        }
+      ]
+    },
+    {
+      "id": "dismissal",
+      "title": "Dismissal",
+      "lines": [
+        {
+          "speaker": "priest",
+          "text": "Give thanks to the Lord, for he is good."
+        },
+        {
+          "speaker": "penitent",
+          "text": "His mercy endures for ever."
+        },
+        {
+          "speaker": "note",
+          "text": "The priest then dismisses you, usually telling you that your sins are forgiven and to go in peace. You may answer:"
+        },
+        {
+          "speaker": "penitent",
+          "text": "Thanks be to God."
+        },
+        {
+          "speaker": "note",
+          "text": "Some priests shorten the dismissal. A simple \"Thank you, Father\" as you leave is always appropriate."
+        }
+      ]
+    },
+    {
+      "id": "after-confession",
+      "title": "After Confession",
+      "lines": [
+        {
+          "speaker": "note",
+          "text": "Spend a few moments in prayer."
+        },
+        {
+          "speaker": "note",
+          "text": "Complete your penance as soon as you reasonably can."
+        },
+        {
+          "speaker": "note",
+          "text": "Log this confession so you know the date next time."
+        }
+      ]
+    }
+  ]
+}
